@@ -23,6 +23,6 @@ let package = Package(
             ],
             path: "Sources/LivenessIdentySDKWrapper"
         ),
-        .binaryTarget(name: "LivenessIdentySDK", url: "__URL__", checksum: "__CHECKSUM__")
+        .binaryTarget(name: "LivenessIdentySDK", url: "https://sdk.placeholder.example.com/ios/LivenessSDK/0.0.2-test/LivenessSDK.xcframework.zip", checksum: "58add360fc5f65352e7cd4b0e1e31728354bd7510f8a6041bff13317bfd47f4b")
     ]
 )
