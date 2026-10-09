@@ -1,0 +1,9 @@
+Copyright (c) VCC. All rights reserved.
+
+This repository distributes a Swift Package Manager manifest for the proprietary LivenessIdentySDK
+binary. The source code of the SDK itself is not contained in this repository and is not licensed
+under any open-source license. Access to and use of the compiled binary referenced by this
+manifest is governed by the commercial agreement between VCC and the consuming party.
+
+No part of this manifest or the binary it references may be reproduced, distributed, or used to
+create derivative works without prior written authorization from VCC.
